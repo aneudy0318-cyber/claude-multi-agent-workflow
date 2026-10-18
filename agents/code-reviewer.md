@@ -1,4 +1,4 @@
-﻿---
+---
 name: code-reviewer
 description: Use when you need a read-only code review for correctness, security, and maintainability. Use for reviewing a pull request, a changed file, or a function before merging.
 tools: Read, Grep, Glob

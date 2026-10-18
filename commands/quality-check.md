@@ -1,4 +1,4 @@
-﻿---
+---
 name: quality-check
 description: Run the full code quality workflow: parallel review plus test analysis, then fixes.
 ---

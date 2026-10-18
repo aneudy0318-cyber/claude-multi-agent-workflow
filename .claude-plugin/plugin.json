@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "code-quality-pipeline",
   "version": "1.0.0",
   "description": "Multi-agent code quality workflow: parallel review and test analysis, then fixes and formatting.",

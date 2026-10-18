@@ -1,4 +1,4 @@
-﻿---
+---
 name: test-fixer
 description: Use when tests are failing and you need someone to fix the code or tests. Use after a review or test run shows failures.
 tools: Read, Grep, Glob, Edit, Write, Bash

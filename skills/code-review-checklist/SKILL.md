@@ -1,4 +1,4 @@
-﻿---
+---
 name: code-review-checklist
 description: Use when reviewing code for quality. Provides the checklist for correctness, security, tests, and style.
 ---

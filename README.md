@@ -1,4 +1,4 @@
-﻿# code-quality-pipeline
+# code-quality-pipeline
 
 A Claude Code plugin that runs a multi-agent code quality workflow.
 

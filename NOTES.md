@@ -1,4 +1,4 @@
-﻿# NOTES - code-quality-pipeline
+# NOTES - code-quality-pipeline
 
 ## What it does
 Plugin that runs a code quality workflow on course-api/: review + test analysis in parallel, then fixes.
